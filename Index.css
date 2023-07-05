@@ -1,0 +1,47 @@
+body{
+   
+    background-image: url("C:/Users/Admin/Pictures/Camera Roll/back_img.jpg");
+}
+.quote-generator{
+     display: flex;
+     height: 100vh; 
+     align-items: center;
+     justify-content: center;
+}
+.container{
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.header{
+    margin: auto;
+}
+.main-body{
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.61);
+    height: 250px;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 2px 2px 12px 12px rgba(204, 204, 204, 0.144);
+}
+.quote{
+    text-align: center;
+    color: rgb(32, 137, 145);
+    margin-top: 20px;
+    font-size: 30px;
+}
+.butn{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin: 20px;
+}
+.butn button{
+    border-radius: 20px;
+}
+.person{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.993);
+    margin: 20px;
+    font-size: 30px;
+}
